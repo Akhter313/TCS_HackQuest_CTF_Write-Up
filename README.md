@@ -79,3 +79,12 @@ All techniques documented in this repository were used *solely within a legal Ca
 This repository is intended for *educational and demonstrative purposes only*.
 
 ---
+
+---
+
+## Full Technical Report
+
+For the complete and detailed write-up covering all challenges and methodologies, refer to:
+
+📄 **[TCS_HackQuest10_CTF_Report.pdf](https://github.com/Akhter313/TCS_HackQuest_CTF_Write-Up/blob/main/TCS_HackQuest10_CTF_Report.pdf)**
+
